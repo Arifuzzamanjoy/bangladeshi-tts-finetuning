@@ -58,7 +58,7 @@ bangladeshi-tts-finetuning/
 ```python
 # 1. Open Google Colab and create new notebook
 # 2. Clone the repository
-!git clone https://github.com/your-username/bangladeshi-tts-finetuning.git
+!git clone https://github.com/Arifuzzamanjoy/bangladeshi-tts-finetuning
 %cd bangladeshi-tts-finetuning
 
 # 3. Mount Google Drive for persistence
@@ -79,7 +79,7 @@ wandb.login()  # Enter your W&B API key
 ### Option 2: Local Development
 ```bash
 # Prerequisites: Python 3.8+, CUDA-capable GPU (16GB+ VRAM recommended)
-git clone https://github.com/your-username/bangladeshi-tts-finetuning.git
+git clone https://github.com/Arifuzzamanjoy/bangladeshi-tts-finetuning
 cd bangladeshi-tts-finetuning
 
 # Create virtual environment
